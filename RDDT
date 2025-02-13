@@ -1,9 +1,9 @@
-name: My Goggle RDDT
-description: What my Goggle does
-public: false
-author: Me
+! name: My Goggle RDDT
+! description: What my Goggle does
+! public: false
+! author: Me
 
-bloomberg.com
-reuters.com
-wsj.com
-
+$discard
+$site=bloomberg.com,boost=4
+$site=wsj.com,boost=2
+$site=reuters.com,boost=2
