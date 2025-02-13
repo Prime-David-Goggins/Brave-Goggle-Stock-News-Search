@@ -1,3 +1,8 @@
+name: My Goggle RDDT
+description: What my Goggle does
+public: false
+author: Me
+
 bloomberg.com
 reuters.com
 wsj.com
